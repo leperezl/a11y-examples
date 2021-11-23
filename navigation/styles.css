@@ -9,10 +9,17 @@ form {
   border: 1px solid rgb(168, 180, 228);
 }
 
+.inpt{
+  margin-top: 1rem;
+}
+.button:focus{
+  outline: none;
+  box-shadow: 0 0 0 0.15rem rgb(255, 51, 177);
+}
 .button {
   margin-top: 1rem;
   padding: 0.5rem;
-  background-color: rgb(132, 132, 220);
+  background-color: rgb(25, 25, 65);
   color: white;
   border-radius: 0.7rem;
   text-align: center;
